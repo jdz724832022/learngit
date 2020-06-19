@@ -1,0 +1,13 @@
+.login{
+	width: 50%;
+	margin: 0 auto;
+	margin-top: 50px;
+}
+.login .input-group{
+	margin-bottom: 20px;
+	width: 70%;
+}
+.btn-info {
+	width: 200px;
+	margin-left: 100px;
+}
